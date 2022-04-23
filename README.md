@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## I am Harsh, an undergraduate student of CSE at SMU, Gangtok.
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31htuspnluzi3bux2kbrhbohudue&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31htuspnluzi3bux2kbrhbohudue&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)]]
+
 <!--
 **writetoharsh/writetoharsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
